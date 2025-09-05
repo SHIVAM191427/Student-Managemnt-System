@@ -1,0 +1,11 @@
+course_id,course_name,department,credits,instructor_id
+101,B.Tech Computer Science and Engineering,Computer Science,4,1
+102,B.Tech Electronics and Communication Engineering,Electronics,4,2
+103,M.Tech Data Science,Computer Science,4,1
+104,B.Tech Mechanical Engineering,Mechanical Engineering,4,3
+105,B.Tech Civil Engineering,Civil Engineering,4,4
+106,BBA,Business Administration,3,5
+107,MBA - Finance,Business Administration,2,5
+108,B.Sc Physics,Physics,3,6
+109,B.Com (Hons),Commerce,3,7
+110,M.Sc Chemistry,Chemistry,4,8

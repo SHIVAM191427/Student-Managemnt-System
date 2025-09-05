@@ -1,0 +1,9 @@
+instructor_id,first_name,last_name,department,email
+1,Amit,Aggarwal,Computer Science,amit.aggarwal@iitd.ac.in
+2,Preeti,Nair,Electronics,preeti.nair@nitsr.ac.in
+3,Sanjay,Rao,Mechanical Engineering,sanjay.rao@bits-pilani.ac.in
+4,Neha,Singh,Civil Engineering,neha.singh@vnit.ac.in
+5,Karthik,Sharma,Business Administration,karthik.sharma@iimb.ac.in
+6,Vinita,Menon,Physics,vinita.menon@iiserm.ac.in
+7,Avinash,Patel,Commerce,avinash.patel@srcc.ac.in
+8,Maya,Deshmukh,Chemistry,maya.deshmukh@iisc.ac.in
